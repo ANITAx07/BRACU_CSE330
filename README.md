@@ -1,1 +1,2 @@
-# BRACU_CSE330
+This repository contains all the lab assignments done in the CSE330 course of BracU.
+
